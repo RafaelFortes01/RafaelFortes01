@@ -18,7 +18,7 @@
  <div style="display: inline-block"><br>
    <img align="center" alt="RHTML logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="Animação Baby Yoda" height="150" style="border-radius:50px;" src="https://tenor.com/view/baby-yoda-hi-hello-greet-wave-gif-15912640">
+   <img align="right" alt="Animação Baby Yoda" height="150" src="https://c.tenor.com/7rMJZKO5CYYAAAAC/baby-yoda-hi.gif">
  </div>
   
   
