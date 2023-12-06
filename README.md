@@ -7,7 +7,7 @@
 ##
 - 🌱 I’m currently learning: HTML, CSS and JavaScript
 - 📫 How to reach me: rafael06092001@gmail.com
-- ⚡ Fun fact: I have a dog who loves to see me coding 🐶
+- ⚡ Fun fact: I have a dog who loves watch me coding 🐶
 
 <div align="center">
   <a href="https://github.com/RafaelFortes01">
