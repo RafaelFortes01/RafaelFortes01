@@ -1,11 +1,11 @@
 ### Olá! Eu sou o Rafael, muito prazer 👋
 ### Hello! I'm Rafael, nice to meet you 👋
 
-- 🌱 Eu estou estudando: HTML, CSS e JavaScript
+- 🌱 Eu estou estudando: TypeScript e React
 - 📫 Forma de contato: rafael06092001@gmail.com 
 - ⚡ Fato engraçado: Eu tenho um cachorro que ama me ver programando 🐶
 ##
-- 🌱 I’m currently learning: HTML, CSS and JavaScript
+- 🌱 I’m currently learning: TypeScript and React
 - 📫 How to reach me: rafael06092001@gmail.com
 - ⚡ Fun fact: I have a dog who loves watch me coding 🐶
 
